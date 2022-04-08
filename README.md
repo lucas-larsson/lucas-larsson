@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
+<h1 align="center">Hi There  👋, I'm Lucas</h1>
 <h3 align="center">A KTH Student passionate about Technology and Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-larsson&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-larsson" /> </p>
@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lucas larsson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas larsson" height="30" width="40" /></a>
-<a href="https://fb.com/lucas larsson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lucas larsson" height="30" width="40" /></a>
-<a href="https://instagram.com/lucas larsson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucas larsson" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucaslarsson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas larsson" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100007860783264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lucas larsson" height="30" width="40" /></a>
+<a href="https://instagram.com/lucas_larsson1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucas larsson" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
