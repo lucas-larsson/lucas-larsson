@@ -1,5 +1,8 @@
-<h1 align="center">Hi There  👋, I'm Lucas</h1>
-### A CS Student [KTH](https://www.kth.se/en)  passionate about Technology and Engineering 
+
+
+# Hello World!  👋, I'm Lucas
+
+### A CS Student [@KTH](https://www.kth.se/en)  passionate about Technology and Engineering 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-larsson&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-larsson" /> </p>
